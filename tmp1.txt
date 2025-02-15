@@ -1,2 +1,1 @@
-new commit into this file, so I have smth to push
-new commit into this file, so I have smth to push
+This is a new commit to my git repository
